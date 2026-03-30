@@ -2,11 +2,11 @@
 
 # 💫 About Me:
 🔭 I’m currently working on ML models Building small real-world software projects to strengthen my programming fundamentals, A Drug Tracking GUI app (scanner simulation, stock viewer, location-based logic) .<br>
-👯 I’m looking to collaborate on companies Beginner-friendly software or web development projects, Practical projects that solve real problems (not tutorial clones) .
-🤝 I’m looking for help with Writing clean, structured, and scalable code, Understanding core software engineering concepts deeply (not just surface-level), Project architecture and best practices.
-🌱 I’m currently learning Web development and real-world application building, Programming basics and problem-solving.
-💬 Ask me about Setting up development environments, Firebase basics, and simple app building, My blockchain-related college project.
-⚡ Fun fact I focus more on practical learning and building than just watching tutorials.
+👯 I’m looking to collaborate on companies Beginner-friendly software or web development projects, Practical projects that solve real problems (not tutorial clones) . <br>
+🤝 I’m looking for help with Writing clean, structured, and scalable code, Understanding core software engineering concepts deeply (not just surface-level), Project architecture and best practices.<br>
+🌱 I’m currently learning Web development and real-world application building, Programming basics and problem-solving.<br>
+💬 Ask me about Setting up development environments, Firebase basics, and simple app building, My blockchain-related college project.<br>
+⚡ Fun fact I focus more on practical learning and building than just watching tutorials.<br>
 
 
 ## 🌐 Socials:
