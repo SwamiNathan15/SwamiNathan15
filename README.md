@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on ML models Building small real-world software projects to strengthen my programming fundamentals, A Drug Tracking GUI app (scanner simulation, stock viewer, location-based logic) .
+🔭 I’m currently working on ML models Building small real-world software projects to strengthen my programming fundamentals, A Drug Tracking GUI app (scanner simulation, stock viewer, location-based logic) .<br>
 👯 I’m looking to collaborate on companies Beginner-friendly software or web development projects, Practical projects that solve real problems (not tutorial clones) .
 🤝 I’m looking for help with Writing clean, structured, and scalable code, Understanding core software engineering concepts deeply (not just surface-level), Project architecture and best practices.
 🌱 I’m currently learning Web development and real-world application building, Programming basics and problem-solving.
